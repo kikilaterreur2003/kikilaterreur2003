@@ -1,4 +1,5 @@
-Bonjour, je suis mathieu merien étudiant de l'ESIR voici ma page github
+Bonjour, je suis mathieu merien étudiant de l'ESIR voici ma page github,
+J'utilise github pour les projet scolaire, je l'ai aussi utilisé pour mon stage mais le projet est en privée.
 
 
 <!---
